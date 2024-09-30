@@ -23,3 +23,5 @@ const NavLinks = (props) => {
     </ul>
   );
 };
+
+export default NavLinks;
